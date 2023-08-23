@@ -1,3 +1,3 @@
 # Binary Tree Challenge
 
-img/binary-tree.png
+![](img/binary-tree.png)

@@ -1,0 +1,17 @@
+{
+  "name": "binary-tree-challenge",
+  "version": "1.0.0",
+  "description": "Solve the coding challenge of the binary tree",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
